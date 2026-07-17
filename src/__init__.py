@@ -1,0 +1,2 @@
+"""Recruitment AI demo package."""
+
