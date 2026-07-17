@@ -4,8 +4,8 @@
 
 ## 在线预览与代码
 
-- 在线预览：部署后补充 `https://<app-name>.streamlit.app`
-- 代码仓库：推送后补充 `https://github.com/<username>/recruitment-ai-demo`
+- 在线预览:https://recruitment-ai-ops-demo.streamlit.app/
+- 代码仓库：https://github.com/kekeyouguaishou-ux/recruitment-ai-demo
 
 ## 业务背景
 
